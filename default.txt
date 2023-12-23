@@ -14,3 +14,11 @@ INITIALIZATION TIME: 2023-12-22 20:27:59
 2023-12-22 20:27:59: !This is uhh!
 2023-12-22 20:27:59: >This is fine!
 2023-12-22 20:27:59: <This is fine!
+//\ STARTING LOG: default
+INITIALIZATION TIME: 2023-12-22 20:34:30
+------------------------------
+2023-12-22 20:34:30: +This is good!
+2023-12-22 20:34:30: -This is bad!
+2023-12-22 20:34:30: !This is uhh!
+2023-12-22 20:34:30: >This is fine!
+2023-12-22 20:34:30: <This is fine!
